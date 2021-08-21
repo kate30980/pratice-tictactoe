@@ -1,0 +1,14 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+.board {
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+}
